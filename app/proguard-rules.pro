@@ -86,13 +86,4 @@
 
 # Dto models for Moshi keep
 -keep class ru.vagavagus.crazyapp.data.** {*;}
-
-##---------------Begin: proguard configuration for Gson  ----------
-# Gson uses generic type information stored in a class file when working with fields. Proguard
-# removes such information by default, so configure it to keep all of it.
--keepattributes Signature
-
-#-keep class com.google.gson.stream.** { *; }
-
-# Application classes that will be serialized/deserialized over Gson
- -keep class ru.vagavagus.crazyapp.data.** { *; }
+-keep class ru.vagavagus.** { *; }
