@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CrazyApp</string>
+    <string name="empate">Empate</string>
+    <string name="eclair_de_saa">Eclair de Saa</string>
+    <string name="mais_de">Mais de %1.2$f</string>
+    <string name="total_goals">Total Gols</string>
+    <string name="popular">Populares</string>
+    <string name="close_bet">Encerrar Aposta</string>
+    <string name="ticket">Bilhete</string>
+    <string name="search">Buscar</string>
+    <string name="result">Resultado</string>
+    <string name="count">Montante</string>
+    <string name="choose">Seleções</string>
+    <string name="price">Cotação</string>
+    <string name="confirm_bet">Validar Aposta</string>
+    <string name="split_bet">Compartilhar aposta</string>
+    <string name="off_bets">Apagar</string>
+</resources>
